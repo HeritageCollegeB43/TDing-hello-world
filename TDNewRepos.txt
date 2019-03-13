@@ -1,0 +1,15 @@
+6.	Choose File->Clone repository. Select the HeritageCollegeB43 organization (after you’ve had me add you). You should see at least 2 repositories (am-hello-world and B43lab). Choose the local path h:\420-B43\Labs\initialsB43L06\B43git (you may have to create the folder). Make sure you do this BEFORE selecting the repository to clone. Choose B43Lab repository and click the Clone button.  This makes a copy of the repository on your local home drive.
+
+7.	Using Repository->Show in Explorer, choose to open this new repository in Explorer. Add a new python file to the folder called xxMe.py where xx is your initials (yes all of you have unique initials) and add a function called xx_show (xx is your initials again) to file that prints your name, the date and the course name and number.
+
+8.	Also open Readme.txt and add your name on its own line at the bottom of the file and the TIME you make the update.
+
+9.	When you return to GitHub the Changes tab should have a circle next to it indicating that there are changes. If not, click the Sync button to Sync the project. Choose the Changes button and you should see that your newly created file is on the list with a green + and the Readme.txt file with a yellow circle. Enter “File creation and update from desktop by yourname” in the Summary field and click Commit to master. 
+
+10.	This will update YOUR LOCAL REPOSITORY. Go to github.com and look at the file, your change will not be there. In order to get the change to the remote (web) repository you need to push it from the local repository.
+
+11.	Minimise the github desktop application. Now open a web browser and navigate to the HeritageCollegeB43 organization in github.com (you will have to log in, etc).
+
+12.	At the top, on the left hand side, there should be a drop down with your username currently selected. Change to use the HeritageCollegeB43 context. You should see a list of the repositories currently in the organization (there will be at least two). Select to add a New repository and add the repository xx-hello-world where xx is your initials. Choose to initialize the repository with a README.
+
+13.	Select the repository and add to the README.md file information about what you are doing (Lab 6, for B43 and your name, etc). 
